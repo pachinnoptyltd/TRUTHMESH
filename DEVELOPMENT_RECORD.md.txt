@@ -1,0 +1,14 @@
+# TruthMesh Development & Audit Record
+
+## 1. Original Files (Extracted from Project Archive)
+* `architecture/SPECIFICATIONS.md`
+* `data/claims.json`
+* `data/decision_receipts.json`
+* `schemas/claim.schema.json`
+* `schemas/decision_receipt.schema.json`
+* `schemas/evidence_item.schema.json`
+
+## 2. New Packaging Files (Created for Submission)
+* `README.md` (Project guide and judge notes)
+* `.gitignore` (Git setup file)
+* Subdirectory organization (`architecture/`, `data/`, `schemas/`)
